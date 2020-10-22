@@ -1,6 +1,6 @@
 ### Hola amigo 👋
 
-I make tools for developers, projects, and SaaS applications. I'm also CTO at Quru Lab, a web and blockchain development shop in Agbor, Nigeria.
+I make tools for developers, projects, and SaaS applications. I'm also a Sails.js/Node.js and Vue.js/React consultant.
 
 I write a little bit on my [blog](https://dominuskelvin.dev/blog) and [elsewhere](https://www.smashingmagazine.com/author/kelvin-omereshone/)
 
