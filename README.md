@@ -1,6 +1,6 @@
 ### Hola amigo 👋
 
-I make tools for developers, projects, and SaaS applications. I'm also a Sails.js/Node.js and Vue.js consultant.
+I make tools for developers, projects, and SaaS applications. Currently building [Sailscasts](https://sailcasts.com) The All-In-One Platform To Master Sails and backend JavaScript. Also building [guppy](https://sailscast.com/guppy) - the tinker tool for backend JavaScript.
 
 > I am currently seeking the role of a manager of developer advocacy. Previously developer advocate at [Fleet](https://fleetdm.com).
 
