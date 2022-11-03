@@ -8,7 +8,7 @@ At the side, I'm a web development educator, building [Sailscasts](https://sailc
 
 I am also building [guppy](https://sailscast.com/guppy) - the tinker tool for backend JavaScript.
 
-> Check out the [story](https://twitter.com/Dominus_Kelvin/status/1587844494749155329?s=20&t=mSng07B7y1S4VYKDVK6LvQO on how I became a DevRel at Treblle.
+> Check out the [story](https://twitter.com/Dominus_Kelvin/status/1587844494749155329?s=20&t=mSng07B7y1S4VYKDVK6LvQO) on how I became a DevRel at Treblle.
 
 Check out my [YouTube channel](https://youtube.com/@dominuskelvin) for easy to understand web development videos
 
