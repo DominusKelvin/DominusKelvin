@@ -2,7 +2,7 @@
 
 I make tools for developers, projects, and SaaS applications. 
 
-I am the [lead maintainer](https://twitter.com/Dominus_Kelvin/status/1669063700144070662?s=20) of [Sails](https://sailsjs.com) - The MVC framework for Node.js. Check out [the official announcement blog post](https://blog.sailscasts.com/announcing-the-lead-maintainer-of-sails)
+**I am the [lead maintainer](https://twitter.com/Dominus_Kelvin/status/1669063700144070662?s=20) of [Sails](https://sailsjs.com)** - The MVC framework for Node.js. Check out [the official announcement blog post](https://blog.sailscasts.com/announcing-the-lead-maintainer-of-sails)
 
 Currently working as a Developer Advocate and JavaScript engineer at [Treblle](https://treblle.com) - A service that makes monitoring your APIs super easy and intuitive. 
 
