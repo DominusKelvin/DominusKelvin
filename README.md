@@ -1,10 +1,10 @@
 ### Hola amigo 👋
 
-I make tools for developers, projects, and SaaS applications. 
+I help web development teams [Ship less JavaScript™️](https://calendly.com/_koo/ship-less-javascript), teach full-stack JavaScript, and, build SaaS products. 
 
 **I am the [lead maintainer](https://twitter.com/Dominus_Kelvin/status/1669063700144070662?s=20) of [Sails](https://sailsjs.com)** - The MVC framework for Node.js. Check out [the official announcement blog post](https://blog.sailscasts.com/announcing-the-lead-maintainer-of-sails)
 
-Currently working as a Developer Advocate and JavaScript engineer at [Treblle](https://treblle.com) - A service that makes monitoring your APIs super easy and intuitive. 
+Currently building [Hagfish](https://hagfish.io) - A service that makes monitoring your APIs super easy and intuitive. 
 
 At the side, I'm a web development educator, building [Sailscasts](https://sailcasts.com) - the All-In-One Platform to master Sails and backend JavaScript.
 
@@ -22,7 +22,7 @@ You can subscribe to the [BBoJS(Building Businesses on JavaScript)](https://news
 
 - 🔭  I enjoy creating content and maintaining [Sailscasts](https://sailscasts.com) - an online platform for quality screencasts on learning production-ready Node.js with the [Sails.js](https://sailsjs.com) framework.
 - 🌱 I’m currently running the TKYT(**T**each **K**elvin **Y**our **T**hing) session on YouTube where I get to be taught something for an hour. [Check](https://youtube.com/@dominuskelvin) it out.
-- 💬 Ask me about JavaScript, Sails, Vue, osquery and technical writing
+- 💬 Ask me about Shipping less JavaScript™️, Sails, Vue, and, fullstack JavaScript web development.
 - 📫 How to reach me: You can visit my [website](https://dominuskelvin.dev) or [tweet](https://twitter.com/dominus_kelvin) at me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I fancy one day being a Capoeira master and finally learn how to cook enough to impress my girlfriend.
