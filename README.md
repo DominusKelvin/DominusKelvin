@@ -12,8 +12,6 @@ I am also building [guppy](https://sailscast.com/guppy) - the tinker tool for ba
 
 I recently started working on [The Boring JavaScript Stack](https://github.com/sailscastshq/boring-stack) to enable JavaScript developers to quickly build full-stack JavaScript applications with a focus on shipping rather than fighting with tools. Check my [keynote](https://youtu.be/qX69jEyAIc0) on Sailsconf 2023 introducing this stack
 
-> Check out the [story](https://twitter.com/Dominus_Kelvin/status/1587844494749155329?s=20&t=mSng07B7y1S4VYKDVK6LvQO) on how I became a Developer Advocate at Treblle.
-
 Check out my [YouTube channel](https://youtube.com/@dominuskelvin) for easy to understand web development videos
 
 I write a little bit on my [blog](https://dominuskelvin.dev/blog) and [other publications](https://dominuskelvin.dev/articles)
