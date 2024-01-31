@@ -1,4 +1,4 @@
-### Hola amigo 👋
+### Ahoy there!
 
 I help web development teams [Ship less JavaScript™️](https://shiplessjavascript.com), teach [full-stack JavaScript](https://sailscasts.com), and, [build SaaS products](https://hagfish.io). 
 
