@@ -4,7 +4,7 @@ I help web development teams [Ship less JavaScript™️](https://calendly.com/_
 
 **I am the [lead maintainer](https://twitter.com/Dominus_Kelvin/status/1669063700144070662?s=20) of [Sails](https://sailsjs.com)** - The MVC framework for Node.js. Check out [the official announcement blog post](https://blog.sailscasts.com/announcing-the-lead-maintainer-of-sails)
 
-Currently building [Hagfish](https://hagfish.io) - A service that makes monitoring your APIs super easy and intuitive. 
+Currently building [Hagfish](https://hagfish.io) - a modern way for creators to manage, send and schedule invoices.
 
 At the side, I'm a web development educator, building [Sailscasts](https://sailcasts.com) - the All-In-One Platform to master Sails and backend JavaScript.
 
