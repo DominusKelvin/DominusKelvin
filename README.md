@@ -1,6 +1,6 @@
 ### Hola amigo 👋
 
-I help web development teams [Ship less JavaScript™️](https://calendly.com/_koo/ship-less-javascript), teach full-stack JavaScript, and, build SaaS products. 
+I help web development teams [Ship less JavaScript™️](https://calendly.com/_koo/ship-less-javascript), teach [full-stack JavaScript](https://sailscasts.com), and, [build SaaS products](https://hagfish.io). 
 
 **I am the [lead maintainer](https://twitter.com/Dominus_Kelvin/status/1669063700144070662?s=20) of [Sails](https://sailsjs.com)** - The MVC framework for Node.js. Check out [the official announcement blog post](https://blog.sailscasts.com/announcing-the-lead-maintainer-of-sails)
 
