@@ -1,12 +1,12 @@
 ### Ahoy there!
 
-I help web development teams [Ship less JavaScript™️](https://shiplessjavascript.com), teach [full-stack JavaScript](https://sailscasts.com), and, [build SaaS products](https://hagfish.io). 
+I teach [full-stack JavaScript](https://sailscasts.com) with screencasts for the calm JavaScript developer, and, [build SaaS products](https://hagfish.io). 
 
 **I am the [lead maintainer](https://twitter.com/Dominus_Kelvin/status/1669063700144070662?s=20) of [Sails](https://sailsjs.com)** - The web application framework for JavaScript. Check out [the official announcement blog post](https://blog.sailscasts.com/announcing-the-lead-maintainer-of-sails)
 
 Currently building [Hagfish](https://hagfish.io) - a modern way for creators to manage, send and schedule invoices.
 
-At the side, I'm a web development educator, building [Sailscasts](https://sailcasts.com) - the All-In-One Platform to master Sails and backend JavaScript.
+At the side, I'm a web development educator, building [Sailscasts](https://sailcasts.com) - Practical, high-quality video tutorials for pragmatic full-stack JavaScript web developers.
 
 I am also building [guppy](https://sailscast.com/guppy) - the tinker tool for backend JavaScript.
 
@@ -20,7 +20,7 @@ You can subscribe to the [Building Businesses on JavaScript](https://newsletter.
 
 - 🔭  I enjoy creating content and maintaining [Sailscasts](https://sailscasts.com) - an online platform for quality screencasts on learning production-ready Node.js with the [Sails.js](https://sailsjs.com) framework.
 - 🌱 I’m currently running the TKYT(**T**each **K**elvin **Y**our **T**hing) session on YouTube where I get to be taught something for an hour. [Check](https://youtube.com/@dominuskelvin) it out.
-- 💬 Ask me about Ship less JavaScript™️, [Sails](https://sailsjs.com), [Vue](https://vuejs.org), and, [fullstack JavaScript web development](https://sailscasts.com/boring).
+- 💬 Ask me about [Sails](https://sailsjs.com), [Vue](https://vuejs.org), and, [fullstack JavaScript web development](https://sailscasts.com/boring).
 - 📫 How to reach me: You can visit my [website](https://dominuskelvin.dev) or [tweet](https://twitter.com/dominus_kelvin) at me
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I fancy one day being a Capoeira master and finally learn how to cook enough to impress my girlfriend.
+- ⚡ Fun fact: I fancy one day being a Capoeira master and finally learn how to cook enough to impress my ~~girlfriend~~ fiancée .
