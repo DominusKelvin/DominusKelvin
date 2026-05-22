@@ -4,7 +4,7 @@ I teach [full-stack JavaScript](https://sailscasts.com) with screencasts for the
 
 **I am the [lead maintainer](https://twitter.com/Dominus_Kelvin/status/1669063700144070662?s=20) of [Sails](https://sailsjs.com)** - The web application framework for JavaScript. Check out [the official announcement blog post](https://blog.sailscasts.com/announcing-the-lead-maintainer-of-sails)
 
-Currently building [Hagfish](https://hagfish.io) - a modern way for creators to manage, send and schedule invoices.
+Currently building [Hagfish](https://hagfish.app) - a modern way for creators to manage, send and schedule invoices.
 
 At the side, I'm a web development educator, building [Sailscasts](https://sailcasts.com) - Practical, high-quality video tutorials for pragmatic full-stack JavaScript web developers.
 
